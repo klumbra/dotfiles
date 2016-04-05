@@ -1,2 +1,5 @@
 # Ignore the installed plugins
 vim/.vim/plugged/**
+
+# Ignore vim netrwhist file
+vim/.vim/.netrwhist
